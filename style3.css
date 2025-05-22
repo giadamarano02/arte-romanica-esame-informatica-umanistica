@@ -1,0 +1,33 @@
+/*commento esempio*/
+body {background-color: #DAA520}
+
+h1 {text-align : center;background-color: #ffe680; border: 5px ; border-radius:20px; width:500px; height: 70px; }
+  
+ h2 {background-color: #DAA520 }
+
+  .indice { background-color:#DAA520; font-family: alatsi ; height: 180px}
+  /*inserire il nome alatsi anche nel foglio html e salvare entrambi fogli x vedere modifiche*/
+
+  .introduzione {background-color:#DAA520; width:300px; color:white;}
+
+h1 {padding: 20px;}
+ h2, .introduzione, .Stileesimbolismo , .Tecnicheutilizzate{padding:30px; background-color:#DAA520; color: white;};
+
+  .introduzione img  { margin-left:600px };
+  h2{ color:white;}
+
+  blockquote {border-left:5px solid blue; 
+  	padding: 10px; background: gray;
+  }
+
+  a:over, a:active{ text-decoration: underline; color:white ; }
+  a:link, a:visited {
+    text-decoration: underline;
+    color: white;
+    background-color: transparent;
+}
+a:hover, a:active {
+    text-decoration: underline overline;
+    color: blue;} 
+
+  .introduzione a  { color:white} 
